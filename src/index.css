@@ -1,0 +1,10 @@
+.card{
+    width: 250px;
+    display: flex;
+    align-items: start;
+    text-align: start;
+}
+
+.card-body{
+    font-size: 14px;
+}
